@@ -1,6 +1,6 @@
 # toodoo
 
-A new Flutter project.
+A todo app with firebase and google sign in
 
 ## Getting Started
 
