@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353277017004",
+    "firebase_url": "https://testodo-f7929.firebaseio.com",
+    "project_id": "testodo-f7929",
+    "storage_bucket": "testodo-f7929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353277017004:android:a34dd20809ee7fa3",
+        "android_client_info": {
+          "package_name": "com.example.toodoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353277017004-4qibcqilo5enm2ekjlcigrushqg4sf50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toodoo",
+            "certificate_hash": "8c14fd1e240b567222dac5761a9c1d20173d53d2"
+          }
+        },
+        {
+          "client_id": "353277017004-57g8gm246hf5gtp61e9gkr028dm3hc3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFE-bqh4nLLhq-WDXUWC2uEMu-NXNwMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353277017004-57g8gm246hf5gtp61e9gkr028dm3hc3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
